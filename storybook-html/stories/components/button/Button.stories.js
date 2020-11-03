@@ -2,7 +2,7 @@ import { action } from '@storybook/addon-actions';
 import { linkTo } from '@storybook/addon-links';
 
 export default {
-  title: 'Button',
+  title: 'Components/Button',
   argTypes: {
     children: { control: 'text' },
   },
